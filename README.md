@@ -1,2 +1,2 @@
-# Technik
-TECHNiK.wtf
+#TECHNiK.wtf
+www.technik.wtf
