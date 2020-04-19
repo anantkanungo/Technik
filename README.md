@@ -1,2 +1,2 @@
 # Technik
-blogbyme
+TECHNiK.wtf
